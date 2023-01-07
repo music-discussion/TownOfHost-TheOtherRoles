@@ -668,7 +668,7 @@ SheriffCanKillCrewmatesAsIt,Sheriff Can Kill Crewmates As It,Sheriff Может 
 SheriffShotLimit,Sheriff Shot Limit,Лимит Выстрелов Sheriff,シェリフのキル可能回数,警长最大执法次数,警長最大子彈數量
 HideCommand,Hide Command,Скрыть Команды,HideCommand,隐藏命令,HideCommand
 GarunteePet,Guarantee Pet (makes pet visible to everyone),Garuntee Pet (делает питомца видимым для всех),GarunteePet,显示宠物（使宠物让所有人可见）
-AccurateWinner,Accurate Winner For Clients,AccurateWinner,AccurateWinner,AccurateWinner
+AccurateWinner,Accurate Winner For Clients,AccurateWinner,AccurateWinner,显示准确胜利玩家
 KillFlashDuration,Kill Flash Duration(s),Длительность Вспышки Убийсва,キルフラッシュの長さ(秒),击杀闪烁持续时间(秒)
 SheriffCanKillJug,Sheriff Can Kill Juggernaut/Marksman/BloodKnight,Sheriff Может Убить Juggernaut,シェリフのキル可能回数,警长可以执法欲望杀手/神射手/嗜血骑士
 DoctorTaskCompletedBatteryCharge,Doctor Battery Duration,Длительность Батарейки Doctor,ドクターがタスクを終わらせたときにセットされるバイタルの秒数,医生电池持续时间,醫生完成任務充電秒數
